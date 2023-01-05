@@ -1,3 +1,3 @@
 # hyperplasticpolyp
 Colon Hyperplastic Polyp
-https://pathologyatlas.github.io/hyperplasticpolyp/case1.html
+https://images.patolojiatlasi.com/hyperplasticpolyp/case1.html
